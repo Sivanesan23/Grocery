@@ -4,7 +4,7 @@ Project Description:
 Technologies Used: 
     Angular (HTML, CSS & Type Script) for Frontend; 
     SPRING Boot, JAVA, Data JPA for Backend and MySQL Database. 
-    Software used-Sublime text for Frontend, Eclipse for Backend and MySQL DB.
+    Software used-visual studio code for Frontend, Eclipse for Backend and MySQL DB.
   
 Features:
     create a new customer in the DB.
