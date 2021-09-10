@@ -14,7 +14,7 @@ Features:
     
 Getting Started:
 
-     git remote add origin
+     git remote add origin https://github.com/Sivanesan23/Grocery.git
      compile and run the angular and spring code
      open up the visual studio and start the server using ng serve(command)
         
